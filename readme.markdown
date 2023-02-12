@@ -18,9 +18,3 @@ At the final step, you can see the numbers of users and their usernames that hav
 **Hamid Jafari**
 
 - [Github](https://github.com/hamiidjafarii "github.com/hamiidjafarii")
-
-- [Linkedin](linkedin.com/in/hamiidjafarii "linkedin.com/in/hamiidjafarii")
-
-## 🤝 Support
-
-Give a ⭐️ if you like this project!
