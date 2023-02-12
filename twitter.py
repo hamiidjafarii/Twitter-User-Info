@@ -25,7 +25,6 @@ def twitter_OAuth(consumer_key,consumer_secret,access_key,access_secret):
 api = twitter_OAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET)
 
 user_name = []
-my_dict = {}
 excel_data_df = pd.read_excel(excel_file_path, sheet_name = sheet_name)
 
 un = excel_data_df['User Name'].to_list()

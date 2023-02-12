@@ -1,1 +1,0 @@
-This code is related to find Twitter users information.
